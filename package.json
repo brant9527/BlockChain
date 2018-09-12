@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "block.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brant9527/BlockChain.git"
+  },
+  "author": "zyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brant9527/BlockChain/issues"
+  },
+  "homepage": "https://github.com/brant9527/BlockChain#readme",
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "js-sha256": "^0.9.0"
+  }
+}
